@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "Assignment_1"
+include ':java'
+include ':openCVLibrary3411'

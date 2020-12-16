@@ -1,0 +1,4 @@
+#Mon Sep 21 20:25:54 MST 2020
+base.0=/Users/pranjalipatil/AndroidStudioProjects/Assignment_1/java/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

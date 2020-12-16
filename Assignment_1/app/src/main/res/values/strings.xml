@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">COVID-19 Monitoring</string>
+    <string name="symptom_logging_page">Symptom Logging Page</string>
+    <string name="upload_symptoms">Upload Symptoms</string>
+    <string name="symptoms">SYMPTOMS</string>
+    <string name="measure_heart_rate">Measure Heart Rate</string>
+    <string name="measure_respiratory_rate">Measure Respiratory Rate</string>
+    <string name="symptom_prompt">Choose a Symptom</string>
+    <string-array name="symptom_selection">
+        <item>Select one symptom</item>
+        <item>Fever</item>
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Soar Throat</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Feeling Tired</item>
+    </string-array>
+</resources>
