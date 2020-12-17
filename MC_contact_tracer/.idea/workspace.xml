@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42c29aa4-3088-43e7-a6be-8201195c3d4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jc0simY7mMVHi73YR9bd6tcOTK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Database_files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Database_files" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c29aa4-3088-43e7-a6be-8201195c3d4b" name="Default Changelist" comment="" />
+      <created>1604088280971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604088280971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604445997874">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="329" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1604445997874" />
+    <state x="228" y="123" key="DBNavigator.DatasetFilterDialog" timestamp="1604121852295">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="123" key="DBNavigator.DatasetFilterDialog/0.0.1280.800@0.0.1280.800" timestamp="1604121852295" />
+    <state x="178" y="63" key="DBNavigator.ProjectSettingsDialog" timestamp="1604182377590">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="63" key="DBNavigator.ProjectSettingsDialog/0.0.1280.800@0.0.1280.800" timestamp="1604182377590" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1604181511810">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1604181511810" />
+    <state x="294" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1604793300675">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="294" y="234" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1604793300674" />
+  </component>
+</project>
